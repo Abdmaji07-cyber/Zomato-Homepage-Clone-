@@ -5,3 +5,5 @@ This is a Zomato home page clone website using HTML and CSS. Flexbox and Grid is
 Try it live 
 
 link in about check it
+
+https://splendorous-cajeta-6daff6.netlify.app/
